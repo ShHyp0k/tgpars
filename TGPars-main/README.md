@@ -20,7 +20,7 @@ Telegram spamer, inviter and parser
 * Termux:
   * `pkg update`
   * `pkg install python3 python3-pip git -y`
-  * `git clone https://github.com/elizhabs/TGPars/`
+  * `git clone https://github.com/ShHyp0k/tgpars`
   * `cd TGPars`
   * `python setup.py -i`
   * `Then go to [my.telegram.org] and login in your account`
@@ -30,7 +30,7 @@ Telegram spamer, inviter and parser
 * Linux
   * `sudo apt update`
   * `sudo apt install python3 python3-pip git -y`
-  * `git clone https://github.com/elizhabs/TGPars/`
+  * `git clone https://github.com/ShHyp0k/tgpars`
   * `cd TGPars`
   * `python setup.py -i`
   * `Then go to [my.telegram.org] and login in your account`
